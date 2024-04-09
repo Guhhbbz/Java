@@ -1,0 +1,26 @@
+REPETIÇÃO 
+
+1ª Repetição controlada - contagens ex:(conte até 10) 
+quando começa eu ja conheço as regras 
+
+ 1ª Estrutura de repetição
+  FOR
+   for(condição inicial; criterio de repetição; expressão automatica){
+    a ser repetido;   
+  }
+ex: for(int n = 0; n <= 10; n++){
+        system.out.prinln(n);
+}
+
+Condicao inicial - qualquer ação que eu queira realizar antes de iniciar a repeticao. ex( criar uma variavel, escrever algo, qq coisa antes)
+
+Criterio de repetição - ex: Se verdadeiro faça.
+
+Expressão automatica - Operação realizada após o loop 
+
+2ª Faça enquanto verdadeira (condição) faça pelo menos 1ª vez ex(deseja continuar a compra?)
+ 
+3ª Teste antes de fazer - tem garantia de execução ex(repetir até verdadeiro)
+ 
+
+
